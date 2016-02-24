@@ -1,1 +1,268 @@
 2015-07-22 15:48:38 DEBUG App:19 - The first log4j log
+2015-09-09 11:01:45 INFO  App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+2015-09-09 11:01:45 INFO  App:38 - finally
+2015-09-09 11:01:45 INFO  App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+2015-09-09 11:01:45 INFO  App:38 - finally
+2015-09-09 11:01:45 INFO  App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+2015-09-09 11:01:45 INFO  App:38 - finally
+2015-09-09 11:01:53 INFO  App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:01:53 INFO  App:38 - finally
+2015-09-09 11:01:53 INFO  App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:01:53 INFO  App:38 - finally
+2015-09-09 11:01:53 INFO  App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:01:53 INFO  App:38 - finally
+2015-09-09 11:02:34 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:02:34 ERROR App:38 - finally
+2015-09-09 11:02:34 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:02:34 ERROR App:38 - finally
+2015-09-09 11:02:34 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:02:34 ERROR App:38 - finally
+2015-09-09 11:02:41 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:02:41 ERROR App:38 - finally
+2015-09-09 11:02:41 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:02:41 ERROR App:38 - finally
+2015-09-09 11:02:41 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:02:41 ERROR App:38 - finally
+2015-09-09 11:03:24 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:24 ERROR App:38 - finally
+2015-09-09 11:03:24 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:24 ERROR App:38 - finally
+2015-09-09 11:03:24 ERROR App:36 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:24 ERROR App:38 - finally
+2015-09-09 11:03:40 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:40 ERROR App:39 - finally
+2015-09-09 11:03:40 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:40 ERROR App:39 - finally
+2015-09-09 11:03:40 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:40 ERROR App:39 - finally
+2015-09-09 11:03:44 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:44 ERROR App:39 - finally
+2015-09-09 11:03:44 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:44 ERROR App:39 - finally
+2015-09-09 11:03:44 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:44 ERROR App:39 - finally
+2015-09-09 11:03:45 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:45 ERROR App:39 - finally
+2015-09-09 11:03:45 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:45 ERROR App:39 - finally
+2015-09-09 11:03:45 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:45 ERROR App:39 - finally
+2015-09-09 11:03:48 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:48 ERROR App:39 - finally
+2015-09-09 11:03:48 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:48 ERROR App:39 - finally
+2015-09-09 11:03:49 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:03:49 ERROR App:39 - finally
+2015-09-09 11:13:19 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:13:19 ERROR App:39 - finally
+2015-09-09 11:13:19 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:13:19 ERROR App:39 - finally
+2015-09-09 11:13:19 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:13:19 ERROR App:39 - finally
+2015-09-09 11:14:28 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:14:28 ERROR App:39 - finally
+2015-09-09 11:14:28 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:14:28 ERROR App:39 - finally
+2015-09-09 11:14:28 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:14:28 ERROR App:39 - finally
+2015-09-09 11:14:28 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:14:28 ERROR App:39 - finally
+2015-09-09 11:14:28 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:14:28 ERROR App:39 - finally
+2015-09-09 11:14:28 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10010242_1441707258832.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-09 11:14:28 ERROR App:39 - finally
+2015-09-10 13:54:30 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10009839_1441855334109.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6acbcfc0
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10009839_1441855334109.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-10 13:54:30 ERROR App:39 - finally
+2015-09-10 13:54:30 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10009839_1441855334109.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@34a245ab
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10009839_1441855334109.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-10 13:54:30 ERROR App:39 - finally
+2015-09-10 13:54:30 ERROR App:37 - Can't upload media to aws.http://52.74.32.141:1935/vod/mp4:10009839_1441855334109.mp4/playlist.m3u8[Ljava.lang.StackTraceElement;@6e8cf4c6
+java.io.FileNotFoundException: http://52.74.32.141:1935/vod/mp4:10009839_1441855334109.mp4/playlist.m3u8
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at java.net.URL.openStream(Unknown Source)
+	at com.evan.maventest.App.main(App.java:34)
+2015-09-10 13:54:30 ERROR App:39 - finally
+2016-02-24 17:29:11 ERROR TSimpleServer:89 - Thrift error occurred during processing of message.
+org.apache.thrift.protocol.TProtocolException: Unexpected character:ﾀ
+	at org.apache.thrift.protocol.TJSONProtocol.readJSONSyntaxChar(TJSONProtocol.java:337)
+	at org.apache.thrift.protocol.TJSONProtocol.readJSONArrayStart(TJSONProtocol.java:805)
+	at org.apache.thrift.protocol.TJSONProtocol.readMessageBegin(TJSONProtocol.java:816)
+	at org.apache.thrift.TBaseProcessor.process(TBaseProcessor.java:27)
+	at org.apache.thrift.server.TSimpleServer.serve(TSimpleServer.java:80)
+	at com.micmiu.thrift.demo.HelloServerDemo.startServer(HelloServerDemo.java:38)
+	at com.micmiu.thrift.demo.HelloServerDemo.main(HelloServerDemo.java:51)
